@@ -140,7 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="dataStructures.h" />
+    <ClInclude Include="map.h" />
     <ClInclude Include="mapping.h" />
+    <ClInclude Include="point.h" />
+    <ClInclude Include="route.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
